@@ -18,6 +18,12 @@
     <inceptionYear>2018-Now</inceptionYear>
 
     <dependencies>
+        <dependency>
+            <groupId>com.aaron</groupId>
+            <artifactId>itoken-common</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+
         <!-- Spring Boot Begin -->
         <dependency>
             <groupId>com.alibaba</groupId>
